@@ -1,4 +1,4 @@
- Dynamic-Web-Scaling-with-AWS-Auto-Scaling-Application-Load-Balancer
+## Dynamic-Web-Scaling-with-AWS-Auto-Scaling-Application-Load-Balancer
  ![AWS Logo](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-Compute-blue?logo=amazonec2)
 ![ALB](https://img.shields.io/badge/ALB-Load%20Balancer-green?logo=amazonaws)
