@@ -28,7 +28,7 @@
 
 ## 🏗️ Architecture Overview
 
-![Auto Scaling + Load Balancer Architecture](./images/image1.png)  
+![Auto Scaling + Load Balancer Architecture](https://github.com/Naveen15github/Dynamic-Web-Scaling-with-AWS-Auto-Scaling-Application-Load-Balancer/blob/d9ceef76ac6d9195a561e260a48f58528b45f056/Gemini_Generated_Image_trq7oktrq7oktrq7.png)  
 *Figure 1: High-level AWS Auto Scaling + Load Balancer Architecture*
 
 ---
@@ -53,7 +53,7 @@
     ```
 10. **Test**: Visit the EC2 public IP in a browser. You should see your welcome page.
 
-![Sample Web Page](./images/image2.png)
+![Sample Web Page](https://github.com/Naveen15github/Dynamic-Web-Scaling-with-AWS-Auto-Scaling-Application-Load-Balancer/blob/d9ceef76ac6d9195a561e260a48f58528b45f056/Screenshot%20(52).png)
 *Figure 2: Testing the EC2 instance — sample HTML page served*
 
 ---
@@ -116,7 +116,7 @@
         - Remove instance if CPU < 30% for 5 min
 8. **Review & Create** the ASG.
 
-![EC2 Instances Console](./images/image3.png)
+![EC2 Instances Console](https://github.com/Naveen15github/Dynamic-Web-Scaling-with-AWS-Auto-Scaling-Application-Load-Balancer/blob/d9ceef76ac6d9195a561e260a48f58528b45f056/Screenshot%20(55).png)
 *Figure 3: EC2 Console showing multiple instances managed by the Auto Scaling Group*
 
 ---
@@ -129,7 +129,7 @@
 4. **Reduce traffic**: ASG should terminate instances when load drops.
 5. **Check** CloudWatch metrics for CPU and scaling events.
 
-![stress-ng Load Testing](./images/image4.png)
+![stress-ng Load Testing](https://github.com/Naveen15github/Dynamic-Web-Scaling-with-AWS-Auto-Scaling-Application-Load-Balancer/blob/d9ceef76ac6d9195a561e260a48f58528b45f056/Screenshot%20(54).png)
 *Figure 4: Using stress-ng to simulate load on the EC2 instances*
 
 ---
