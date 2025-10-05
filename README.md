@@ -4,12 +4,6 @@
 ![ALB](https://img.shields.io/badge/ALB-Load%20Balancer-green?logo=amazonaws)
 ![ASG](https://img.shields.io/badge/ASG-Auto%20Scaling-purple?logo=amazonaws)
 
-> **_Empower your cloud skills!_**  
-> Build a self-healing, auto-scaling, and load-balanced web architecture on AWS, step by step.  
-> _Perfect for your resume, LinkedIn, or interview portfolio!_
-
----
-
 ## 📚 Table of Contents
 
 1. [Prerequisites](#-prerequisites)
